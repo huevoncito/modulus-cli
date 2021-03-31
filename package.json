@@ -45,7 +45,7 @@
     "split": "1.0.0",
     "text-table": "0.2.0",
     "through": "2.3.8",
-    "underscore": "1.8.3",
+    "underscore": "1.12.1",
     "update-notifier": "1.0.2",
     "uuid": "^3.0.0",
     "zip-stream": "1.1.0"
